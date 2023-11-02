@@ -1,9 +1,5 @@
 E-waste Mate – Location-Aware Blockchain-Based E-Waste Management System
+- As the world becomes increasingly digitalized, e-waste has become a major environmental concern. E-waste (Electronic waste) is any electrical equipment that’s been discarded, unwanted, not working, and nearing or at the end of their useful life. Since e-waste contains hazardous substances such as lead, mercury, and cadmium, improper and inefficient e-waste management can cause many problems that affect the environment and ecosystems. It also results in harm to human health and livelihoods.
+To address the problem, we propose a novel software system that efficiently manages the process of e-waste disposal. Our system is designed based on the idea of community engagement for collective action to achieve long-term and sustainable outcomes. It applies blockchain technology to store status and information related to e-waste disposal process. This ensures transparency in data collection and enables users to trace back the e-waste disposal process efficiently. In addition, the system supports a function that can automatically select the appropriate e-waste disposal request based on spatial analysis.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # ewaste_nsc
