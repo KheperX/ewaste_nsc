@@ -12,4 +12,19 @@ To address the problem, we propose a novel software system that efficiently mana
 - 4. Users can check the amount of waste collected each time and track progress in increasing waste management efficiency.
 - 5. The application can also collect data and statistics on waste delivery.
 
+# Deploy
+
+## Sign up, Sign in
+![image](https://github.com/KheperX/ewaste_nsc/assets/84076461/6578e20b-1e2a-41ed-9006-c342bb9346aa)
+
+## People who want to throw away garbage
+![image](https://github.com/KheperX/ewaste_nsc/assets/84076461/af371c2b-e941-4ec2-9d1b-31d6e4bf1f08)
+
+## Volunteers deliver garbage
+![image](https://github.com/KheperX/ewaste_nsc/assets/84076461/49cfc111-d16d-4696-b08a-73286c337fce)
+
+
+
+
+
 # ewaste_nsc
