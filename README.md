@@ -14,9 +14,6 @@ To address the problem, we propose a novel software system that efficiently mana
 
 # Deploy
 
-## Sign up, Sign in
-![image](https://github.com/KheperX/ewaste_nsc/assets/84076461/6578e20b-1e2a-41ed-9006-c342bb9346aa)
-
 ## People who want to throw away garbage
 ![image](https://github.com/KheperX/ewaste_nsc/assets/84076461/af371c2b-e941-4ec2-9d1b-31d6e4bf1f08)
 
